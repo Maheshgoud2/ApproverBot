@@ -7,9 +7,9 @@
           "golang",
           "gotgbot"
       ],
-    "repository": "https://github.com/Reeshuxd/ApproverBot",
-    "website": "https://t.me/reeshuxd",
-    "success_url": "https://t.me/AboutReechu",
+    "repository": "https://github.com/Maheshgoud2/ApproverBot",
+    "website": "https://t.me/Spiner84",
+    "success_url": "https://t.me/Spiner84",
     "env": {
       "TOKEN": {
         "description": "Bot Token, Get It From @BotFather.",
